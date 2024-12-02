@@ -1,0 +1,27 @@
+{
+    "yritys": "Tiny Cat Cafe",
+    "yhteystiedot": {
+        "osoite": "Kattilankuja 9, Helsinki",
+        "puhelin": "123 456 7890",
+        "email": "info@tinycatcafe.com"
+    },
+    "tuotteet": [
+        "juomat",
+        "suolaiset herkut",
+        "makeat herkut"
+    ],
+    "henkilokunta": [
+        {
+            "nimi": "Pekka Töpöhäntä",
+            "titteli": "kahvilanpitäjä"
+        },
+        {
+            "nimi": "Maija Maitoparta",
+            "titteli": "kahvilatarjoilija"
+        },
+        {
+            "nimi": "Katti Matikainen",
+            "titteli": "kahvilatyöntekijä"
+        }
+    ]
+}
